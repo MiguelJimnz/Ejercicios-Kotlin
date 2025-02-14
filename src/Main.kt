@@ -5,4 +5,11 @@ fun main() {
     println("Ejercicio Kotlin")
     println("Miguel Jimenez")
     println("Videojuegos")
+
+    println("Esta Es Mi Rama De Desarrollo")
+    println("Suma")
+    println("Resta")
+    println("Multiplicacion")
+    println("Division")
+
 }
