@@ -3,8 +3,6 @@
 fun main() {
     println("Hola Mundo")
     println("Ejercicio Kotlin")
-
-
-    println("Ejercicio Kotlin")
-    println("Ejercicio Kotlin")
+    println("Miguel Jimenez")
+    println("Videojuegos")
 }
